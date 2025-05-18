@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "title": "iPhone 12",
+    "brand": "Apple",
+    "category": "smartphones",
+    "price": 799.99
+  },
+  {
+    "id": 2,
+    "title": "Samsung Galaxy S21",
+    "brand": "Samsung",
+    "category": "smartphones",
+    "price": 699.99
+  },
+  {
+    "id": 3,
+    "title": "MacBook Pro",
+    "brand": "Apple",
+    "category": "laptops",
+    "price": 1299.99
+  },
+  {
+    "id": 4,
+    "title": "Dell XPS 13",
+    "brand": "Dell",
+    "category": "laptops",
+    "price": 999.99
+  },
+  {
+    "id": 5,
+    "title": "Sony WH-1000XM4",
+    "brand": "Sony",
+    "category": "headphones",
+    "price": 349.99
+  },
+  {
+    "id": 6,
+    "title": "iPhone 13 Pro",
+    "brand": "Apple",
+    "category": "smartphones",
+    "price": 999.99
+  },
+  {
+    "id": 7,
+    "title": "Samsung Galaxy S22",
+    "brand": "Samsung",
+    "category": "smartphones",
+    "price": 799.99
+  },
+  {
+    "id": 8,
+    "title": "MacBook Air",
+    "brand": "Apple",
+    "category": "laptops",
+    "price": 999.99
+  },
+  {
+    "id": 9,
+    "title": "Dell Inspiron",
+    "brand": "Dell",
+    "category": "laptops",
+    "price": 699.99
+  },
+  {
+    "id": 10,
+    "title": "Bose QuietComfort 45",
+    "brand": "Bose",
+    "category": "headphones",
+    "price": 329.99
+  },
+  {
+    "id": 11,
+    "title": "iPhone 14",
+    "brand": "Apple",
+    "category": "smartphones",
+    "price": 899.99
+  },
+  {
+    "id": 12,
+    "title": "Samsung Galaxy S23",
+    "brand": "Samsung",
+    "category": "smartphones",
+    "price": 899.99
+  },
+  {
+    "id": 13,
+    "title": "MacBook Pro M2",
+    "brand": "Apple",
+    "category": "laptops",
+    "price": 1499.99
+  },
+  {
+    "id": 14,
+    "title": "Dell Latitude",
+    "brand": "Dell",
+    "category": "laptops",
+    "price": 899.99
+  },
+  {
+    "id": 15,
+    "title": "Sony WF-1000XM4",
+    "brand": "Sony",
+    "category": "earbuds",
+    "price": 279.99
+  },
+  {
+    "id": 16,
+    "title": "iPhone 14 Pro",
+    "brand": "Apple",
+    "category": "smartphones",
+    "price": 1099.99
+  },
+  {
+    "id": 17,
+    "title": "Samsung Galaxy Z Fold",
+    "brand": "Samsung",
+    "category": "smartphones",
+    "price": 1799.99
+  },
+  {
+    "id": 18,
+    "title": "MacBook Air M2",
+    "brand": "Apple",
+    "category": "laptops",
+    "price": 1199.99
+  },
+  {
+    "id": 19,
+    "title": "Dell Alienware",
+    "brand": "Dell",
+    "category": "laptops",
+    "price": 1999.99
+  },
+  {
+    "id": 20,
+    "title": "Bose 700",
+    "brand": "Bose",
+    "category": "headphones",
+    "price": 379.99
+  },
+  {
+    "id": 21,
+    "title": "iPhone SE",
+    "brand": "Apple",
+    "category": "smartphones",
+    "price": 429.99
+  },
+  {
+    "id": 22,
+    "title": "Samsung Galaxy A54",
+    "brand": "Samsung",
+    "category": "smartphones",
+    "price": 449.99
+  },
+  {
+    "id": 23,
+    "title": "Mac Mini",
+    "brand": "Apple",
+    "category": "desktops",
+    "price": 699.99
+  },
+  {
+    "id": 24,
+    "title": "Dell OptiPlex",
+    "brand": "Dell",
+    "category": "desktops",
+    "price": 799.99
+  },
+  {
+    "id": 25,
+    "title": "Sony WH-XB910N",
+    "brand": "Sony",
+    "category": "headphones",
+    "price": 249.99
+  },
+  {
+    "id": 26,
+    "title": "iPhone 15",
+    "brand": "Apple",
+    "category": "smartphones",
+    "price": 999.99
+  },
+  {
+    "id": 27,
+    "title": "Samsung Galaxy S24",
+    "brand": "Samsung",
+    "category": "smartphones",
+    "price": 999.99
+  },
+  {
+    "id": 28,
+    "title": "Mac Studio",
+    "brand": "Apple",
+    "category": "desktops",
+    "price": 1999.99
+  },
+  {
+    "id": 29,
+    "title": "Dell Precision",
+    "brand": "Dell",
+    "category": "laptops",
+    "price": 1499.99
+  },
+  {
+    "id": 30,
+    "title": "Bose Sport Earbuds",
+    "brand": "Bose",
+    "category": "earbuds",
+    "price": 179.99
+  },
+  {
+    "id": 31,
+    "title": "iPhone 15 Pro",
+    "brand": "Apple",
+    "category": "smartphones",
+    "price": 1199.99
+  },
+  {
+    "id": 32,
+    "title": "Samsung Galaxy Z Flip",
+    "brand": "Samsung",
+    "category": "smartphones",
+    "price": 999.99
+  },
+  {
+    "id": 33,
+    "title": "Mac Pro",
+    "brand": "Apple",
+    "category": "desktops",
+    "price": 5999.99
+  },
+  {
+    "id": 34,
+    "title": "Dell XPS Desktop",
+    "brand": "Dell",
+    "category": "desktops",
+    "price": 1299.99
+  },
+  {
+    "id": 35,
+    "title": "Sony WH-CH720N",
+    "brand": "Sony",
+    "category": "headphones",
+    "price": 149.99
+  },
+  {
+    "id": 36,
+    "title": "iPhone 15 Pro Max",
+    "brand": "Apple",
+    "category": "smartphones",
+    "price": 1299.99
+  },
+  {
+    "id": 37,
+    "title": "Samsung Galaxy Tab S9",
+    "brand": "Samsung",
+    "category": "tablets",
+    "price": 799.99
+  },
+  {
+    "id": 38,
+    "title": "iPad Pro",
+    "brand": "Apple",
+    "category": "tablets",
+    "price": 799.99
+  },
+  {
+    "id": 39,
+    "title": "Dell XPS 15",
+    "brand": "Dell",
+    "category": "laptops",
+    "price": 1499.99
+  },
+  {
+    "id": 40,
+    "title": "Bose QuietComfort Earbuds II",
+    "brand": "Bose",
+    "category": "earbuds",
+    "price": 279.99
+  },
+  {
+    "id": 41,
+    "title": "iPhone 14 Plus",
+    "brand": "Apple",
+    "category": "smartphones",
+    "price": 999.99
+  },
+  {
+    "id": 42,
+    "title": "Samsung Galaxy Tab S9 Ultra",
+    "brand": "Samsung",
+    "category": "tablets",
+    "price": 1199.99
+  },
+  {
+    "id": 43,
+    "title": "iPad Air",
+    "brand": "Apple",
+    "category": "tablets",
+    "price": 599.99
+  },
+  {
+    "id": 44,
+    "title": "Dell XPS 17",
+    "brand": "Dell",
+    "category": "laptops",
+    "price": 1799.99
+  },
+  {
+    "id": 45,
+    "title": "Sony LinkBuds",
+    "brand": "Sony",
+    "category": "earbuds",
+    "price": 179.99
+  },
+  {
+    "id": 46,
+    "title": "iPhone 13",
+    "brand": "Apple",
+    "category": "smartphones",
+    "price": 699.99
+  },
+  {
+    "id": 47,
+    "title": "Samsung Galaxy Tab S9+",
+    "brand": "Samsung",
+    "category": "tablets",
+    "price": 899.99
+  },
+  {
+    "id": 48,
+    "title": "iPad Mini",
+    "brand": "Apple",
+    "category": "tablets",
+    "price": 499.99
+  },
+  {
+    "id": 49,
+    "title": "Dell XPS 13 Plus",
+    "brand": "Dell",
+    "category": "laptops",
+    "price": 1299.99
+  },
+  {
+    "id": 50,
+    "title": "Sony WF-C500",
+    "brand": "Sony",
+    "category": "earbuds",
+    "price": 99.99
+  }
+] 
